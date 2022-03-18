@@ -1,0 +1,12 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.0.4
+idna==3.3
+joblib==1.1.0
+nltk==3.7
+pyspellchecker==0.6.3
+regex==2022.3.15
+requests==2.27.1
+textblob==0.17.1
+tqdm==4.63.0
+urllib3==1.26.9
